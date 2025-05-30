@@ -17,7 +17,6 @@ Database-Searcher is a simple Python tool that scans through multiple text files
 
 - Python 3.x
 
-## Usage
+## Database
 
-```bash
-python database_searcher.py --folder path/to/folder --search "search_term"
+You can add your own database in the folder "databases"
